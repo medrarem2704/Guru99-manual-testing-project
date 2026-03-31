@@ -19,24 +19,25 @@ The objective of this project was to simulate real-world QA activities following
 
 ## Application Under Test
 
-Guru99 Banking Demo Application
+The Guru99 Banking Demo Application simulates a banking system with features such as:
 
-Modules Covered:
+- Customer registration
+- Login system
+- Account management
+- Deposit & withdrawal
+- Fund transfer
+- Balance checking
+ 
+ There are two main roles in the system:
 
-- Manager Login
-- Customer Creation
-- Account Creation
-- Deposit
-- Withdrawal
-- Balance Enquiry
-- Mini Statement
-- Customer Login Flow
+- **Manager role**: Has access to all the modules.
+- **Customer role**: Accesses only some features of the system.
 
-Tested across:
+This is the overall system chart:
 
-Version 1  
-Version 3  
-Version 4  
+<img src="system_chart.png" alt="Screenshot" width="500"/>
+
+
 
 ---
 
@@ -222,3 +223,12 @@ Completed test closure documentation
 
 Simulated real-world QA workflow in a banking domain environment
 
+---
+
+## 📚 Reference
+
+Project source:
+
+https://www.guru99.com/live-testing-project.html
+
+---
