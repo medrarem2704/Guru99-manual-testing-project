@@ -35,7 +35,7 @@ The Guru99 Banking Demo Application simulates a banking system with features suc
 
 This is the overall system chart:
 
-<img src="system_chart.png" alt="Screenshot" width="500"/>
+<img src="system_chart.png" alt="Screenshot" width="750"/>
 
 
 
