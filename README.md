@@ -38,8 +38,55 @@ This is the overall system chart:
 <img src="system_chart.png" alt="Screenshot" width="750"/>
 
 
-
 ---
+## Application release versions
+### Version 1 – Requirement Analysis & Test Case Design
+
+The first version of the Banking Site can be accessed via the following link:
+```
+http://demo.guru99.com/V1/
+```
+
+Activities performed:
+- [SRS_v1](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v1/SRS_v1.docx) review
+- Functional requirement analysis
+- Test case design based on specifications: [TestCaseSuite_v1](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v1/TestCaseSuite_v1.xlsx)
+- Positive and negative scenario identification
+- Integration scenario planning: [IntegrationPlanning_v1](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v1/IntegrationPlanning_v1.xlsx)
+- Test case execution
+- Defects identification
+- Documentation of bugs in the [BugTracker_v1](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v1/BugTracker_v1.xlsx)
+
+### Version 2 – Integration Testing Preparation
+
+The second version of the Banking Site can be accessed via the following link:
+
+(Please use the login credentials generated for version 1 to access the site.
+)
+
+```
+http://demo.guru99.com/V2/
+```
+
+Activities performed:
+- Analysis of the updated requirements document [SRS_v2](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v2/SRS_v2.docx)
+- Update and maintenance of existing test cases to align with new requirements: [TestCaseSuite_v2](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v2/TestCaseSuite_v2.xlsx)
+- Creation of a Unit Test Plan for the **Balance Enquiry** module
+- Re‑execution of failed test cases from Version 1
+- Execution of regression test cases to ensure that existing functionalities remain unaffected
+- Verification that reported defects have been correctly fixed: [BugTracker_v2](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v2/BugTracker_v2.xlsx)
+- Update of the integration planning: [IntegrationPlanning_v2](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v2/IntegrationPlanning_v2.xlsx)
+
+
+### Version 3 – System Testing Planning & Execution
+The third version of the Banking Site can be accessed via the following link:
+
+```
+http://demo.guru99.com/V3/
+```
+
+Activities performed:
+- Analysis of the updated requirements document [SRS_v3](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v3/SRS_v3.docx)
 
 ## Testing Types Performed
 
