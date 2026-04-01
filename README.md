@@ -87,195 +87,48 @@ http://demo.guru99.com/V3/
 
 Activities performed:
 - Analysis of the updated requirements document [SRS_v3](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v3/SRS_v3.docx)
+- Identification of new functional flows: **change password**, **Deposit**, **Withdrawal**, **Fund Transfer**, **Balance Enquiry**
+- Test case design for the new **webservice requirement**
+- Design of a system test plan: [SystemTestPlan_v3](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v3/SystemTestPlan_v3.xlsx)
+- Execution of the System Test Cases
+- Operate as Manager and Customer
+- Defects identification and report in the [BugTracker_v3](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v3/BugTracker_v3.xlsx)
 
-## Testing Types Performed
+### Version 4 – Final release
+The final version of the Banking Site can be accessed via the following link:
 
-Functional Testing
+```
+http://demo.guru99.com/V4/
+```
 
-System Testing
+Activities performed:
+- Analysis of the updated requirements document [SRS_v4](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v4/SRS_v4.docx)
+- Update and maintenance of the system test plan to align with new requirements: [SystemTestPlan_v4](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v4/SystemTestPlan_v4.xlsx)
+- Re‑testing of previously failed cases
+- Regression testing around the areas that changed
+- Bug Tracker Synchronization: [BugTracker_v4](https://github.com/medrarem2704/Guru99-manual-testing-project/blob/main/v4/BugTracker_v4.xlsx)
 
-Integration Testing Preparation
-
-Regression Testing
-
-Smoke Testing
-
-Requirement Change Impact Analysis
-
-Defect Verification Testing
-
-Test Closure Activities
-
----
-
-## Documents Included
-
-### SRS Documents
-
-Multiple versions analyzed:
-
-SRS v1  
-SRS v3  
-SRS v4  
-
-Used to identify requirement changes and update test coverage.
 
 ---
 
-### Test Cases
+## Conclusion
 
-Functional test cases created based on:
+This project provided hands-on experience with the complete Software Testing Life Cycle (STLC) through a realistic simulation of manual testing activities on a banking application.
 
-SRS requirements  
-UI mockups  
-Workflow analysis  
+Throughout the different project versions, I progressively applied key QA practices including:
 
-Includes positive and negative scenarios.
-
----
-
-### Integration Planning
-
-Integration scenarios designed between:
-
-Manager Module
-
-Customer Module
-
-Transaction Workflows
+- Requirement analysis
+- Test planning
+- Test scenario identification
+- Test case design
+- Test execution
+- Defect reporting
+- Test metrics and reporting
 
 ---
 
-### System Test Plan
+## Reference
 
-Prepared and updated after requirement changes:
-
-Scope definition
-
-Entry / Exit criteria
-
-Risk analysis
-
-Regression scope updates
-
-Test environment details
-
----
-
-### Bug Tracking
-
-Defects logged using structured tracking sheets including:
-
-Steps to reproduce
-
-Expected vs actual result
-
-Severity level
-
-Environment reference (V4)
-
-Regression status
-
----
-
-### Regression Testing (Version 4)
-
-Previously failed scenarios re-tested
-
-Critical workflows validated:
-
-Customer creation
-
-Deposit / Withdrawal
-
-Mini statement
-
-Authentication flows
-
-Smoke testing performed for release stability validation
-
----
-
-### Test Closure Activities
-
-Final validation included:
-
-Defect rejection ratio calculation
-
-Top defect themes identification
-
-Test case effectiveness measurement
-
-Residual risk documentation
-
-Release readiness confirmation
-
-Lessons learned summary
-
----
-
-## Tools Used
-
-Excel – Test case management
-
-Word – Test plan documentation
-
-Browser Developer Tools
-
-Manual exploratory testing techniques
-
-GitHub – Documentation hosting
-
----
-
-## Skills Demonstrated
-
-Requirement Analysis
-
-Test Case Design
-
-Regression Testing
-
-System Testing
-
-Integration Testing Preparation
-
-Defect Tracking
-
-Traceability Maintenance
-
-Change Request Analysis
-
-Release Validation
-
-Test Closure Reporting
-
-STLC Execution
-
----
-
-## Project Outcome
-
-Successfully executed full-cycle manual testing across multiple releases of the Guru99 Banking application.
-
-Validated functional workflows
-
-Verified defect fixes in Version 4
-
-Updated test plan after requirement changes
-
-Performed regression testing
-
-Completed test closure documentation
-
-Simulated real-world QA workflow in a banking domain environment
-
----
-
-## 📚 Reference
-
-Project source:
-
-https://www.guru99.com/live-testing-project.html
+Project source: https://www.guru99.com/live-testing-project.html
 
 ---
